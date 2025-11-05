@@ -1,0 +1,47 @@
+## Compiled source ##
+######################
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+
+## Build folders ##
+###################
+bin/
+obj/
+out/
+publish/
+
+## IDE settings ##
+##################
+.vscode/
+.idea/
+*.user
+*.suo
+*.vspscc
+*.userosscache
+
+## Visual Studio folder ##
+##########################
+.vs/
+
+## Logs and debug ##
+####################
+*.log
+
+## NuGet packages ##
+####################
+*.nupkg
+*.snupkg
+packages/
+*.cache
+*.config
+project.lock.json
+
+## OS generated files ##
+########################
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
