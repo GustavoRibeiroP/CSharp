@@ -1,4 +1,4 @@
-# 📘 Estudos em C#
+# Estudos em C#
 
 Este repositório reúne meus exercícios e práticas em **C#**, desenvolvidos durante meu processo de aprendizado na linguagem e na lógica de programação.
 
@@ -35,7 +35,7 @@ Praticar conceitos fundamentais da linguagem e fortalecer a lógica de programa�
 
 ---
 
-### ✨ Próximos passos de estudo
+### Próximos passos de estudo
 
 - Programação Orientada a Objetos avançada (POO)
 - Arquivos e manipulação de dados
@@ -45,4 +45,4 @@ Praticar conceitos fundamentais da linguagem e fortalecer a lógica de programa�
 
 ---
 
-📚 *Aprendizado contínuo é a chave para evolução!*
+*Aprendizado contínuo é a chave para evolução!*
